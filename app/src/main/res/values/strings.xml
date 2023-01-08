@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shuffle_btn">Shuffle</string>4
+    <string name="favourites_btn">Favourites</string>
+    <string name="playlist_btn">Playlists</string>
+    <string name="total_songs">Total Songs</string>
+    <string name="music_universe">Music Universe</string>
+    <string name="song_name">Song Name</string>
+    <string name="back_btn">Back</string>
+</resources>
